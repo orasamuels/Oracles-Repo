@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(229, 158, 158);
+    padding: 200px;
+    
+}
+#body1{
+    background-color: aliceblue;
+    color: black;
+    border-radius: 60px;
+    padding: 20px;
+}
+img{
+    
+    border-radius: 40px;
+    width: 700px;
+    background-size: cover;
+    
+}
+.head{
+    text-align: center;
+}
+table{
+    border-bottom: 1px solid brown; 
+}
+h1{
+    font-size: 60px;
+}
+
+h3{
+    color: rgb(173, 57, 57)
+}
+h4{
+    color: fuchsia;
+}
+.ul1{
+    background-color: rgb(222, 181, 226);
+    color: rgb(173, 57, 57);
+    padding: 25px;
+    
+}
+
+/*  
+p{
+    color: aliceblue;
+}
+.ul2{
+    color: aliceblue;
+}
+.ol1{
+    color: aliceblue;
+}
+.t1{
+    color: aliceblue;
+}
